@@ -21,10 +21,12 @@ Personal portfolio
 - HTML5
 - CSS (with media queries)
 - JavaScript
+- react 
 
 ## 📁 File Structure
 
 index.html # Main HTML structure
 style.css # Styles and responsiveness
 main.js # JS for interactivity (menu toggle, animations)
+.json files # for the backend
 assets/ # All images/icons/logos
